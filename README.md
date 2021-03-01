@@ -2,7 +2,7 @@
 ## Classic Arcade style Space Invaders. Built using Python 
 
 #### How to Run
-1. git clone https://github.com/barclaydSpaceInvaders.git
+1. git clone https://github.com/swan20hub/Space_invaders.git 
 2. cd SpaceInvaders
 3. Setup your environment
 4. run main.py 
